@@ -1,0 +1,14 @@
+{"gearList": [
+    {
+        "quantity": 1,
+        "name": "Petzl Nomic",
+        "weight": 585,
+        "neededNextTrip": false
+    },
+    {
+        "quantity": 2,
+        "name": "Petzl Ergonomic",
+        "weight": 635,
+        "neededNextTrip": true
+    }
+]}

@@ -1,0 +1,32 @@
+{"gearList": [
+    {
+        "quantity": 3,
+        "name": "sdf",
+        "weight": 3,
+        "neededNextTrip": true
+    },
+    {
+        "quantity": 3,
+        "name": "sdf",
+        "weight": 4,
+        "neededNextTrip": true
+    },
+    {
+        "quantity": 4,
+        "name": "sdfsdf",
+        "weight": 3,
+        "neededNextTrip": false
+    },
+    {
+        "quantity": 1,
+        "name": "sdf",
+        "weight": 2,
+        "neededNextTrip": true
+    },
+    {
+        "quantity": 1,
+        "name": "new test",
+        "weight": 223,
+        "neededNextTrip": true
+    }
+]}
